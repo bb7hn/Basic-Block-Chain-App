@@ -1,0 +1,10 @@
+G:\C#\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.exe.config
+G:\C#\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.exe
+G:\C#\BlockChain\BlockChain\BlockChain\bin\Debug\BlockChain.pdb
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.csprojAssemblyReference.cache
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.Properties.Resources.resources
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.GenerateResource.cache
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.exe
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.pdb
+G:\C#\BlockChain\BlockChain\BlockChain\obj\Debug\BlockChain.Form1.resources
